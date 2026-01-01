@@ -29,7 +29,6 @@ Make sure the following are installed on your system before running the project:
 ### 1. Clone the Repository
 ```bash
 git clone <repo-link>
-cd booking-manager/frontend
 npm install
 npm run dev
 ```
