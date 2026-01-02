@@ -29,6 +29,20 @@ Make sure the following are installed on your system before running the project:
 ### 1. Clone the Repository
 ```bash
 git clone <repo-link>
+```
+
+### 2. Create .env file in root directory
+```bash
+LOCAL_URL=http://localhost:5000
+VITE_API_BASE_URL=<paste_backend_url_here>
+```
+
+### 3. Install node_modules
+```bash
 npm install
+```
+
+### 4. Run Project
+```bash
 npm run dev
 ```
